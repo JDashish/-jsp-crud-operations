@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Dell1/Documents/NetBeansProjects/Curd/web/WEB-INF/jsp/inc/header.jsp</file>
+            <file>file:/C:/Users/Dell1/Documents/NetBeansProjects/Curd/src/java/Dao/UserDaoImpl.java</file>
+            <file>file:/C:/Users/Dell1/Documents/NetBeansProjects/Curd/src/java/Controller/SignupServlet.java</file>
+            <file>file:/C:/Users/Dell1/Documents/NetBeansProjects/Curd/src/java/Helper/Hash.java</file>
+            <file>file:/C:/Users/Dell1/Documents/NetBeansProjects/Curd/web/WEB-INF/jsp/signup.jsp</file>
+        </group>
+    </open-files>
+</project-private>
